@@ -7,6 +7,7 @@ Repositorio con las consultas SQL del laboratorio y el documento de apoyo.
 - [DP-800 Laboratorio 1 ISAAC Sanchez.pdf](./DP-800%20Laboratorio%201%20ISAAC%20Sanchez.pdf)
 
 ## Consultas SQL
+en orden de aparicion en la guia del laboratorio
 
 - [SQLQuery1.sql](./querys/SQLQuery1.sql)
 - [SQLQuery2.sql](./querys/SQLQuery2.sql)
@@ -22,6 +23,3 @@ Repositorio con las consultas SQL del laboratorio y el documento de apoyo.
 - [SQLQuery12.sql](./querys/SQLQuery12.sql)
 - [SQLQuery13.sql](./querys/SQLQuery13.sql)
 
-## Archivo de apoyo
-
-- [sql.txt](./querys/sql.txt)
