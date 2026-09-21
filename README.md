@@ -1,13 +1,13 @@
 # DP-800 Laboratorio 1
 
-Repositorio con las consultas SQL del laboratorio y el documento de apoyo.
+Repositorio con las consultas SQL del laboratorio y el documento pdf.
 
 ## Documento ODF / PDF
 
 - [DP-800 Laboratorio 1 ISAAC Sanchez.pdf](./DP-800%20Laboratorio%201%20ISAAC%20Sanchez.pdf)
 
 ## Consultas SQL
-en orden de aparicion en la guia del laboratorio
+en orden de aparicion en la guia del laboratorio.
 
 - [SQLQuery1.sql](./querys/SQLQuery1.sql)
 - [SQLQuery2.sql](./querys/SQLQuery2.sql)
